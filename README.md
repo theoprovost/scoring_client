@@ -10,12 +10,12 @@ TO DO
 ## Get started
 
 > Development system : <br><br>
-> System : MacOS Big Sur 11.6.5 <br>
+> OS : MacOS Big Sur 11.6.5 <br>
 > Python v3.9.12 <br>
 > Pip v22.0.4
 
 ### 1 - Clone project
-```bash
+```text
 # HTTPS
 git clone https://github.com/theoprovost/scoring_client.git <dst_folder>
 
@@ -24,7 +24,7 @@ git clone git@github.com:theoprovost/scoring_client.git <dst_folder>
 ```
 
 ### 2 - Install dependencies
-```bash
+```text
 cd <dst_folder>
 python3.9 -m pip install -r requirements.txt
 ```
