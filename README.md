@@ -4,9 +4,11 @@
 TO DO
 
 ## Deliverables
+[Subject](https://simplonline.co/briefs/a1e3b434-ff7f-477c-9354-e052fd1a85f7) <br>
 [Data source](https://drive.google.com/file/d/1G5EgIa41qFm8UzS-A1OQez5HMkPksaQQ/view) <br>
 [Work notebook](https://github.com/theoprovost/scoring_client/blob/master/nb.ipynb) <br>
-[Previsional retroplanning](#planning)
+[Previsional retroplanning](#planning) <br>
+[Deployed project]()
 
 ## Get started
 
@@ -31,3 +33,7 @@ python3.9 -m pip install -r requirements.txt
 ```
 
 ## <a name='planning'></a>Previsional retroplanning
+
+|Monday|Tuesday|Wednesday|Thursday|Friday|
+|--|--|--|--|--|
+| - Subject analysis <br> - GPU support documentation <br> - Base model exploration| - Base model improvement <br> - Model selection/validation| - Dashboard creation| - Dashboard (#2) + deployment + containerisation (?) <br> - Presentation and deliverables redaction | / |
