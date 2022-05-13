@@ -1,4 +1,5 @@
-data/
+data/*
+!data/predicted_score.csv
 .ipynb_checkpoints
 .DS_Store
 checkpoints/
