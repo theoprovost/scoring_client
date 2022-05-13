@@ -32,8 +32,9 @@ cd <dst_folder>
 python3.9 -m pip install -r requirements.txt
 ```
 
-## <a name='planning'></a>Previsional retroplanning
+## <a name='planning'></a>Retroplanning
 
-|Monday|Tuesday|Wednesday|Thursday|Friday|
-|--|--|--|--|--|
-| - Subject analysis <br> - GPU support documentation <br> - Base model exploration| - Base model improvement <br> - Model selection/validation| - Dashboard creation| - Dashboard (#2) + deployment + containerisation (?) <br> - Presentation and deliverables redaction | / |
+||MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|
+|--|--|--|--|--|--|
+|<p style="transform:rotate(-90deg)">PREVISIONNEL</p>| - Subject analysis <br> - GPU support documentation <br> - Base model exploration| - Base model improvement <br> - Model selection/validation| - Dashboard creation| - Dashboard (#2) + deployment + containerisation (?) <br> - Presentation and deliverables redaction | / |
+|<p style="transform:rotate(-90deg)">REALITY</p><td colspan=2>GPU / Hardware troubleshoot|- Dashboard creation <br>- Base model|Same|Same|
