@@ -57,4 +57,4 @@ jupyter lab --notebook-dir $PWD
 ||MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|
 |--|--|--|--|--|--|
 |<p style="transform:rotate(-90deg)">PREVISIONNEL</p>| - Subject analysis <br> - GPU support documentation <br> - Base model exploration| - Base model improvement <br> - Model selection/validation| - Dashboard creation| - Dashboard (#2) + deployment + containerisation (?) <br> - Presentation and deliverables redaction | / |
-|<p style="transform:rotate(-90deg)">REALITY</p><td colspan=2>GPU / Hardware troubleshoot|- Dashboard creation <br>- Base model <br>- Dependencies troubleshoot|Same|Same||
+|<p style="transform:rotate(-90deg)">REALITY</p><td colspan=2>GPU / Hardware troubleshoot|- Dashboard creation <br>- Base model <br>- Dependencies troubleshoot|Same|Same|
