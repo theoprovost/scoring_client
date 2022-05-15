@@ -20,7 +20,7 @@
 [Data source](https://drive.google.com/file/d/1G5EgIa41qFm8UzS-A1OQez5HMkPksaQQ/view) <br>
 [Work notebook](https://github.com/theoprovost/scoring_client/blob/master/nb.ipynb) <br>
 [Previsional retroplanning](#planning) <br>
-[Dashboard (Not online for now, this a archive of a pbix file)](https://drive.google.com/file/d/1Xp6HO2V6PwGo1uc-R9-tuomScuk4ojpw/view?usp=sharing)
+[Dashboard (Not online for now, this a archive of an pbix file)](https://drive.google.com/file/d/1Xp6HO2V6PwGo1uc-R9-tuomScuk4ojpw/view?usp=sharing)
 
 ## Get started
 
