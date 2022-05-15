@@ -6,7 +6,7 @@
 |   |   |  comments   |
 |---|---| :---: |
 |__Part 1__|  |  |
-| Model | ✅ |   |
+| Model | ✅ | Perfectible |
 |  | |   |
 |__Part 2__||
 |Display score|❌| Score is in a table but not displayed right now |
